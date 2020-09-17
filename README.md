@@ -1,6 +1,5 @@
 ## Django URL Shortener
-A simple Django project to implement an URL Shortnening service.
-An API service for shortening links programmatically.
+A simple URL shortner made with love using Django.
 
 **Tools:**
 
